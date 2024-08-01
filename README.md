@@ -1,1 +1,1 @@
-Ayat Taheri
+# Chance favors the prepared mind!

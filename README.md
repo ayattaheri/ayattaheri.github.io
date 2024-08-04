@@ -1,1 +1,1 @@
-# Chance favors the prepared mind!
+# Bytes & Base Pairs: Computational Biology | Ayat Taheri

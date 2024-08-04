@@ -1,1 +1,1 @@
-# Bytes & Base Pairs: Computational Biology | Ayat Taheri
+# Bytes & Base Pairs: Computational Biology
